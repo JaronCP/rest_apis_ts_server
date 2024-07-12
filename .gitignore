@@ -1,5 +1,4 @@
 node_module/
 dist/
 .env
-package-lok.json
 .DS_Store
