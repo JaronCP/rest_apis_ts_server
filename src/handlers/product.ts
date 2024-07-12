@@ -1,6 +1,5 @@
 import { Request, Response } from "express";
 import Product from "../models/Product.model";
-import colors from 'colors';
 
 export const getProducts = async (req: Request, res: Response) => {
 
